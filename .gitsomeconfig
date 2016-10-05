@@ -1,8 +1,7 @@
 [github]
 user_login = josephmtinangi@gmail.com
 user_pass = 50J17MNew
-user_token = 1d1dc77dff4472de255e9fd4f61d7a9cb6d76574
-user_feed = https://github.com/josephmtinangi.private.atom?token=AKGetsy-lwTLd3ZIGt1T-dgQE92Vj1Cjks61_0A6wA==
+user_token = 6627d24cc074188eaa12dcfb166d1a1515cc87fb
 verify_ssl = True
 clr_primary = None
 clr_secondary = green

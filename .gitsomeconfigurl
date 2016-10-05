@@ -1,3 +1,3 @@
 [url]
-url_list = []
+url_list = ['https://github.com/josephmtinangi/file-tracking-system.git', 'https://github.com/josephmtinangi/ajax-php-mysql-registration-form.git', 'https://github.com/josephmtinangi/git-and-github-lessons-workshop.git', 'https://github.com/josephmtinangi/josephmtinangi.github.io.git', 'https://github.com/josephmtinangi/php-challenges.git', 'https://github.com/josephmtinangi/spring-mvc-course-project.git', 'https://github.com/josephmtinangi/student-records.git']
 
